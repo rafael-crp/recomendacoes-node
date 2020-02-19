@@ -1,9 +1,8 @@
 # Recomendações de frameworks para projetos que utilizem Node
 <div align='center'>
-<img src='https://docs.nestjs.com/assets/logo-small.svg' style='height: 100px; width: auto;'> 
-<img src='https://simpleicon.com/wp-content/uploads/plus-256x256.png' style='height: 100px; width: auto;'> 
-<img src='https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png' style='height: 100px; width: auto;'>
+<img src='https://i.imgur.com/d7XNBTR.png' style='height: 100px; width: auto;'><img src='https://i.imgur.com/0TxIlDu.png' style='height: 100px; width: auto;'>
 </div>
+
 ## Frameworks
 
 - NestJS
@@ -16,9 +15,9 @@
 ### TypeORM
 O *TypemORM* é um ORM que é executado no *Node.js* e como o nome indica, o TypeORM trabalha com a linguagem *Typescript* o que o torna um ótimo companheiro para o *NestJS*, pois além desse algo incomum, o *TypeORM* é muito parecido com os frameworks ORM do *Java* e *.NET* como por exemplo o *JPA/Hibernate*, *Flyway/Liquibase*, *QueryDSL*, *Entity Framework*. Muito simples de ser implantando podendo executar automaticamente ao subir a aplicação ou manualmente via CLI e funciona com a grande maioria dos bancos de dados da atualidade.
 
-E como pode ver, essa dupla já vêm se consolidando desde 2017
+E como pode ver nesset twitter da equipe do NestJS, essa dupla já vêm se consolidando desde 2017
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">is <a href="https://twitter.com/nestframework?ref_src=twsrc%5Etfw">@nestframework</a> + <a href="https://twitter.com/hashtag/TypeORM?src=hash&amp;ref_src=twsrc%5Etfw">#TypeORM</a> new modern Node.js stack? 🤔TypeORM 0.1.0 is out with a lot of amazing features! 🎉🔥 <a href="https://t.co/UFPJbrBmw8">https://t.co/UFPJbrBmw8</a> <a href="https://t.co/ArgrG8Cc9v">https://t.co/ArgrG8Cc9v</a></p>&mdash; NestJS (@nestframework) <a href="https://twitter.com/nestframework/status/918068592574435328?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">is <a href="https://twitter.com/nestframework?ref_src=twsrc%5Etfw">@nestframework</a> + <a href="https://twitter.com/hashtag/TypeORM?src=hash&amp;ref_src=twsrc%5Etfw">#TypeORM</a> new modern Node.js stack? 🤔TypeORM 0.1.0 is out with a lot of amazing features! 🎉🔥 <a href="https://t.co/UFPJbrBmw8">https://t.co/UFPJbrBmw8</a> <a href="https://t.co/ArgrG8Cc9v">https://t.co/ArgrG8Cc9v</a></p>&mdash; NestJS (@nestframework) <a href="https://twitter.com/nestframework/status/918068592574435328?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote>
 
 
 ## Demonstração simples do NestJS 

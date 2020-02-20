@@ -112,7 +112,7 @@ Exemplo de classe entidade:
 
 
     @Entity()
-    export class Vagas extends AbstractTable {
+    export class Pessoa extends AbstractTable {
 
         @PrimaryGeneratedColumn()
         id: number;
